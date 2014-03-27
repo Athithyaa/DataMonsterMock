@@ -27,7 +27,7 @@ table(Clusterddata$Best.n[1,])
 
 
 #seeding 
-set.seed(123)
+set.seed(1234)
 
 #clusterng itself
 data.km<- kmeans(data2,3, iter.max = 30, nstart = 88)

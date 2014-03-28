@@ -1,0 +1,16 @@
+{
+    "contents" : "#SIMPLE K-MEANS CLUSTERING USING DATA FROM :http://archive.ics.uci.edu\n\ndata <- read.table('http://archive.ics.uci.edu/ml/machine-learning-databases/wine/wine.data',\n                   header=F,\n                   sep=',')\nnames(data) <- c('Class',\n                 'Alcohol',\n                 'Malic acid',\n                 'Ash',\n                 'Alcalinity of ash',\n                 'Magnesium',\n                 'Total phenols',\n                 'Flavanoids',\n                 'Nonflavanoid phenols',\n                 'Proanthocyanins',\n                 'Color intensity',\n                 'Hue',\n                 'OD280/OD315 of diluted wines',\n                 'Proline')\n\n\ndata2 <- scale(data[-1]) \n\n#used in identifying the optimal number of clusters for a given dat set \nClusterddata <- NbClust(data2, min.nc=2, max.nc=15, method=\"kmeans\")\ntable(Clusterddata$Best.n[1,])\n\n\n#seeding \nset.seed(1234)\n\n#clusterng itself\ndata.km<- kmeans(data2,3, iter.max = 30, nstart = 88)\n#identifying the centres\ndata.km$centers\n\n\n  ",
+    "created" : 1395870616540.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3713619353",
+    "id" : "89DBF49D",
+    "lastKnownWriteTime" : 1395916435,
+    "path" : "C:/Users/varshasri.raghavan/Data Monster/DataMonsterMock/SIMPLE_KMEANS_CLUST.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : true,
+    "type" : "r_source"
+}

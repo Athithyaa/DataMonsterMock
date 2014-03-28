@@ -1,0 +1,31 @@
+﻿Revert "Latest commit by varsh at 348 pm"
+
+This reverts commit f038863c4b1091f12e5531fade5b52ede2e20e64.
+
+Conflicts:
+	SIMPLE_KMEANS_CLUST.R
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is behind 'origin/master' by 1 commit, and can be fast-forwarded.
+#   (use "git pull" to update your local branch)
+#
+# You are currently reverting commit f038863.
+#   (all conflicts fixed: run "git revert --continue")
+#   (use "git revert --abort" to cancel the revert operation)
+#
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#	deleted:    .gitignore
+#	deleted:    DataMonsterMock.Rproj
+#
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	.RData
+#	.Rhistory
+#	.Rproj.user/
+#	InternetAd/
+

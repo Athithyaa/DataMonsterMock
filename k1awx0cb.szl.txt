@@ -1,0 +1,41 @@
+﻿asdasfafafa
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#	new file:   .RData
+#	new file:   .Rhistory
+#	new file:   .Rproj.user/739DAF3B/build_options
+#	new file:   .Rproj.user/739DAF3B/pcs/files-pane.pper
+#	new file:   .Rproj.user/739DAF3B/pcs/source-pane.pper
+#	new file:   .Rproj.user/739DAF3B/pcs/windowlayoutstate.pper
+#	new file:   .Rproj.user/739DAF3B/pcs/workbench-pane.pper
+#	new file:   .Rproj.user/739DAF3B/sdb/prop/AE45A18A
+#	new file:   .Rproj.user/739DAF3B/sdb/prop/INDEX
+#	new file:   .Rproj.user/739DAF3B/sdb/s-8EA5E8CC/89DBF49D
+#	new file:   .Rproj.user/739DAF3B/sdb/s-8EA5E8CC/lock_file
+#	new file:   InternetAd/Classificatoinalgo/.gitignore
+#	new file:   InternetAd/Classificatoinalgo/Classificatoinalgo.Rproj
+#	new file:   InternetAd/Classificatoinalgo/Classifictaionalgo.R
+#	new file:   InternetAd/InternetAd_Classification/.gitignore
+#	new file:   InternetAd/InternetAd_Classification/InternetAd_Classification.R
+#	new file:   InternetAd/InternetAd_Classification/InternetAd_Classification.Rproj
+#	new file:   InternetAd/ecoliclassification
+#	new file:   InternetAd/ecolisampleclass
+#	new file:   lz2sdysl.jkq.txt
+#
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#   (commit or discard the untracked or modified content in submodules)
+#
+#	modified:   InternetAd/ecolisampleclass (untracked content)
+#
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	nint4jij.er1.txt
+#	peoe2bqh.win.txt
+
